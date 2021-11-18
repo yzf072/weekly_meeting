@@ -22,6 +22,14 @@ TEtranscript（2015）文献中使用4个工具对果蝇数据进行了转座元
 
 没有在supplementary文件中找到这个直方图的具体数值，不知道如何重画这个直方图。
 
+### 3. QPCR数值
+
+QPCR定量有txt文件
+
+![image-20211118103404346](https://tva1.sinaimg.cn/large/008i3skNly1gwj3m5hcwyj312q0o2ju1.jpg)
+
+但其中都是RPM统计量，然后对照组MDG1是588.3802555，实验组是3074.682558，而直方图中QPCR结果的log2FC值是8点多，不知道是怎么计算的
+
 ## 结果
 
 ![直方图（新增）](https://tva1.sinaimg.cn/large/008i3skNly1gwh5h4thn2j30rs0jgta0.jpg)
