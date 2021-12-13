@@ -14,11 +14,11 @@ TEtranscript（2015）文献中使用4个工具对果蝇数据进行了转座元
 
 在repeatmasker下载了果蝇的转座元件注释文件。
 
-以MDG1为例，注释文件中包含了MDG1_LTR和MDG1_I-int两种，然后文献也没写具体用的是哪个还是两个加起来。
+以MDG1为例，注释文件中包含了MDG1_LTR（两端，跳转用）和MDG1_I-int（中间）两种，然后文献也没写具体用的是哪个还是两个加起来。
 
 ![image-20211117170236705](https://tva1.sinaimg.cn/large/008i3skNly1gwi9832rbcj323k07aad9.jpg)
 
-### 2. 其它的具体数值
+### 2. 其它的具体数值（发邮件问下；跑一下salmonTE和TEtranscripts）
 
 没有在supplementary文件中找到这个直方图的具体数值，不知道如何重画这个直方图。
 
