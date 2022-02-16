@@ -7,7 +7,7 @@
 * We extend this concept to identify cell types of origin using the Tabula Sapiens transcriptomic cell atlas as well as individual tissue transcriptomic cell atlases in combination with the Human Protein Atlas RNA consensus dataset.
   我们将这一概念扩展到使用==<u>Tabula Sapiens</u>转录细胞图谱==和==单个组织转录细胞图谱==，并结合人类蛋白质图谱RNA共识数据集来识别起源的细胞类型。
 
-![image-20220216022237347](/Users/yzf/Library/Application Support/typora-user-images/image-20220216022237347.png)
+![image-20220216022237347](https://tva1.sinaimg.cn/large/e6c9d24ely1gzfquyesiwj20lk0aqgn3.jpg)
 
 > Tabula Sapiens is a benchmark, first-draft human cell atlas of nearly 500,000 cells from 24 organs of 15 normal human subjects.
 > Tabula Sapiens是一份基准的初稿人体细胞图谱，包含来自15名正常人24个器官的近50万个细胞。
@@ -40,7 +40,7 @@
 
 ### exfig.1
 
-![image-20220216010234725](/Users/yzf/Library/Application Support/typora-user-images/image-20220216010234725.png)
+![image-20220216010234725](https://tva1.sinaimg.cn/large/e6c9d24ely1gzfqv2h6dcj20u00w8gpe.jpg)
 
 > Extended Data Fig. 1 | Cell-free RNa Sample Quality Control.
 > 扩展数据图1：无细胞RNA样品质量控制。
